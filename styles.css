@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+h2{
+    color: green;
+    background-color: orangered;
+    font-size: 40pt;
+}
+p{
+    color: black;
+    background-color: orange;
+    font-size: 30pt;
+}
+h1{
+    color: white;
+    font-size: 48pt;
+}
+input{
+  width: 100%;
+  padding: 30px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 25px;
+}
+#actors{
+    font-family: 'Brush Script MT';
+}
+#plot{
+    font-family: 'Courier New';
+}
