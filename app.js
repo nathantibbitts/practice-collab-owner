@@ -1,3 +1,4 @@
+//Foobar
 const input = document.getElementById("input")
 const title = document.getElementById("title")
 const year = document.getElementById("year")
